@@ -1,0 +1,29 @@
+train_params:
+  dataset_dir: '/data/lane_segmentation/lane_dataset/05-PLVD'
+  fold: 4
+  num_inputs: 3 # RGB
+  classes: [0, 1] # 0: background, 1: lane
+  batch_size: 4  # should be decreased when running Cityscapes (e.g., 4)
+  initial_epoch: 0
+  num_epochs: 300
+  num_workers: 3  # should be decreased when running Cityscapes (e.g., 3)
+  lr_start: 0.0001
+  num_trials: 15
+  img_height: 320
+  img_width: 320
+  resumed: True  # for testing or resuming
+  weight_path: './checkpoints/PascalVOC12/BayesianGaborNetwork_v1_epoch_64_iou_0.1525.pt'
+
+model_params:
+  activation_type: 'relu'
+  metric: 'iou' # accuracy/iou/f1_score
+
+bayes_params:
+  priors:
+    prior_sigma1: 1.5 # for BayesianGabor-v3/v4
+    prior_sigma2: 0.1
+    prior_mu: 0  # for BayesianGabor-v1/v2
+    prior_sigma: 1.063
+    posterior_mu_initial: !!python/tuple [0, 1] # a tuple. keep these just for comparison
+    posterior_rho_initial: !!python/tuple [0, 1]
+  beta_type: 'Blundell' # 'Blundell'/'Standard'/a float number
