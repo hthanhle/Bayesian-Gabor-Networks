@@ -1,5 +1,4 @@
 """
-Created on Fri July 09 11:54:53 2021
 Test a pre-trained Bayesian Gabor Network
 @author: Thanh Le
 """
