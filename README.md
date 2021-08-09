@@ -1,6 +1,6 @@
 # Bayesian Gabor Network with Uncertainty Estimation for Pedestrian Lane Segmentation in Assistive Navigation
 ## Quick start
-### Install
+### Installation
 1. Install PyTorch=1.2.0 following [the official instructions](https://pytorch.org/)
 
 2. git clone https://github.com/hthanhle/Bayesian-Gabor-Networks
