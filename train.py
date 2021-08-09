@@ -1,5 +1,4 @@
 """
-Created on Feb 06 15:53:16 2021
 Train a Bayesian Gabor Network
 @author: Thanh Le
 """
