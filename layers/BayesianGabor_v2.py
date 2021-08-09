@@ -1,5 +1,4 @@
 """
-Created on Thu Jun 25 10:17:42 2020
 Version 2: Optimize the Gabor computations to avoid overloading CPUs
 @author: Thanh Le
 """
