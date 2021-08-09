@@ -11,7 +11,7 @@
 
 The lane dataset PLVP3 is available at: http://documents.uow.edu.au/~phung/plvp3.html
 
-The data should be under ./lane_dataset/PLVP3/
+The data should be under: ./lane_dataset/PLVP3/
 
 ### Train and test
 
