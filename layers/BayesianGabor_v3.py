@@ -1,5 +1,4 @@
 """
-Created on Thu Feb 04 10:17:42 2021
 Version 3: Update the prior with the mixture of two Gaussian densities
 @author: Thanh Le
 """
