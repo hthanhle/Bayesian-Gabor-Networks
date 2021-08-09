@@ -1,5 +1,4 @@
 """
-Created on Wed June 30 12:19:56 2021
 (Non-Bayesian) Gabor Network
 @author: Thanh Le
 """
