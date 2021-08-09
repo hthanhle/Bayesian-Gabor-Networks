@@ -1,7 +1,7 @@
 # Bayesian Gabor Network with Uncertainty Estimation for Pedestrian Lane Segmentation in Assistive Navigation
 ## Descriptions
 
-![alt_text](/output/image/000029.jpg) ![alt_text](/output/image/000059.jpg) ![alt_text](/output/image/000219.jpg) ![alt_text](/output/image/000371.jpg)  ![alt_text](/output/image/000911.jpg)  ![alt_text](/output/image/000981.jpg)  ![alt_text](/output/image/004286.jpg)   ![alt_text](/output/image/008639.jpg) 
+![alt_text](/output/image/000029.jpg) ![alt_text](/output/image/000059.jpg) ![alt_text](/output/image/000219.jpg) ![alt_text](/output/image/000371.jpg)  ![alt_text](/output/image/000911.jpg)  ![alt_text](/output/image/000981.jpg) ![alt_text](/output/image/008639.jpg) 
 
 ## Quick start
 ### Installation
