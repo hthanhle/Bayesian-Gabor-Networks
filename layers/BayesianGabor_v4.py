@@ -1,5 +1,4 @@
 """
-Created on Thu Jun 25 10:17:42 2020
 @author: Thanh Le
 """
 import numpy as np
