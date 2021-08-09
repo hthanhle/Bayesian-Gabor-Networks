@@ -1,5 +1,4 @@
 """
-Created on Thu Jul 16 11:24:09 2020
 Estimate uncertainty
 @author: Thanh Le
 """
