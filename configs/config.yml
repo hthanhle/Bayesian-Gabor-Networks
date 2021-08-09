@@ -1,5 +1,5 @@
 train_params:
-  dataset_dir: '/data/lane_segmentation/lane_dataset/05-PLVD'
+  dataset_dir: '/data/lane_segmentation/lane_dataset/PLVP3'
   fold: 4
   num_inputs: 3 
   classes: [0, 1] # 0: background, 1: lane
