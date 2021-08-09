@@ -1,5 +1,4 @@
 """
-Created on Wed Nov 25 10:38:43 2020
 Compute ECE and AUSE metrics
 @author: Hieu Phan
 """
