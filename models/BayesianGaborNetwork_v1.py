@@ -1,5 +1,4 @@
 """
-Created on Mon Aug 17 12:19:56 2020
 Bayesian Gabor Network
 @author: Thanh Le
 """
