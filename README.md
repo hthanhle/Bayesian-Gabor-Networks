@@ -5,14 +5,15 @@
 
 2. git clone https://github.com/hthanhle/Bayesian-Gabor-Networks
 
-3. Install dependencies: pip install -r requirements.txt
+3. Install dependencies: `pip install -r requirements.txt`
 
 ### Data preparation
 
 The lane dataset PLVP3 is available at: http://documents.uow.edu.au/~phung/plvp3.html
 
-The data should be under: ./lane_dataset/PLVP3/
+The data should be under: `./lane_dataset/PLVP3/`
 
 ### Train and test
 
-Please specify the configuration file.
+Please run the following commands: `python train.py` and `python test.py`
+
