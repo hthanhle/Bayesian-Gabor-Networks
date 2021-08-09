@@ -8,7 +8,7 @@ suitable for real-time operations on edge computers.
 ![alt_text](/output/segmentation/000029.png) ![alt_text](/output/segmentation/000059.png) ![alt_text](/output/segmentation/000219.png) ![alt_text](/output/segmentation/000371.png)  ![alt_text](/output/segmentation/000981.png) ![alt_text](/output/segmentation/008639.jpg) 
 ![alt_text](/output/aleatoric/000029.png) ![alt_text](/output/aleatoric/000059.png) ![alt_text](/output/aleatoric/000219.png) ![alt_text](/output/aleatoric/000371.png)  ![alt_text](/output/aleatoric/000981.png) ![alt_text](/output/aleatoric/008639.jpg)
 ![alt_text](/output/epistemic/000029.png) ![alt_text](/output/epistemic/000059.png) ![alt_text](/output/epistemic/000219.png) ![alt_text](/output/epistemic/000371.png)  ![alt_text](/output/epistemic/000981.png) ![alt_text](/output/epistemic/008639.jpg) 
-*Fig. 1.* Examples from PLVP3 dataset. Row 1: Input colour images. Row 2: ground-truth. Row 3: Output segmentation maps. Row 4: Output aleatoric uncertainty maps. Row 5: Output epistemic uncertainty maps.
+**Figure 1.** Examples from PLVP3 dataset. Row 1: Input colour images. Row 2: ground-truth. Row 3: Output segmentation maps. Row 4: Output aleatoric uncertainty maps. Row 5: Output epistemic uncertainty maps.
 ## Quick start
 ### Installation
 1. Install PyTorch=1.2.0 following [the official instructions](https://pytorch.org/)
