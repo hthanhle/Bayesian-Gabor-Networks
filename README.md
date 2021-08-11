@@ -1,6 +1,6 @@
 # Bayesian Gabor Network with Uncertainty Estimation for Pedestrian Lane Segmentation in Assistive Navigation
 ## Descriptions
-This project proposes a new light-weight Bayesian Gabor Network for camera-based detection of pedestrian lanes in unstructured scenes. The proposed method is fast, compact, and
+We propose a new light-weight Bayesian Gabor Network for camera-based detection of pedestrian lanes in unstructured scenes. The proposed method is fast, compact, and
 suitable for real-time operations on edge computers.
 
 ![alt_text](/output/image/000029.jpg) ![alt_text](/output/image/000059.jpg) ![alt_text](/output/image/000219.jpg) ![alt_text](/output/image/000371.jpg)  ![alt_text](/output/image/000981.jpg) ![alt_text](/output/image/008639.jpg) 
