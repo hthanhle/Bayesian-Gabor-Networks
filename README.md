@@ -25,5 +25,6 @@ The data should be under: `./lane_dataset/PLVP3/`
 
 ### Train and test
 
-Please run the following commands: `python train.py` and `python test.py`
+1. To train a Bayesian Gabor Network, run the following command: `python train.py` 
+2. To test the model, run the following command: `python test.py`
 
