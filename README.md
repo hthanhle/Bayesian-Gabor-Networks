@@ -28,3 +28,18 @@ The data should be under: `./lane_dataset/PLVP3/`
 1. To train a Bayesian Gabor Network, run the following command: `python train.py` 
 2. To test the model, run the following command: `python test.py`
 
+## Citation
+If you find this work or code is helpful for your research, please cite:
+```
+@ARTICLE{9684439,
+  author={Le, Hoang Thanh and Phung, Son Lam and Bouzerdoum, Abdesselam},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Bayesian Gabor Network with Uncertainty Estimation for Pedestrian Lane Detection in Assistive Navigation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2022.3144184}}
+  ```
+## Reference
+[1] H. T. Le, S. L. Phung and A. Bouzerdoum, "Bayesian Gabor Network with Uncertainty Estimation for Pedestrian Lane Detection in Assistive Navigation," IEEE Transactions on Circuits and Systems for Video Technology, 2022, doi: 10.1109/TCSVT.2022.3144184.
